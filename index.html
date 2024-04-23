@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="script.js" defer></script>
+  <title>tf2 swagmeter</title>
+</head>
+<header>
+  <div id="weaponsTitle">
+  <h1>weapons</h1>
+  </div>
+  <div id="apiKeyEntry">
+  <h4 id="apiHeader">enter your <a href="https://backpack.tf/developer/apikey/view">bp.tf api</a> key here</h4>
+  <input id="bpKeyEntry" class="keyEntry" type="text">
+  <br>
+  <button id="submitBPapiButton" class="submitBtn">submit</button>
+  <h4 id="apiHeader">enter your <a href="https://steamcommunity.com/dev/apikey">steam api</a> key here</h4>
+  <input id="webKeyEntry" class="keyEntry" type="text">
+    <div class="progress-container">
+      <progress value="50" max="100"></progress>
+    </div>
+  </div>
+  <div id="cosmeticsTitle">
+  <h1>cosmetics</h1>
+  </div>
+</header>
+<body>
+<div class="contents">
+  <div id="weaponsParent">
+  </div>
+  <div id="info">
+    <p>
+      Comments on your loadout, along with price breakdowns will appear here.
+    </p>
+  </div>
+  <div id="cosmeticsParent">
+  </div>
+</div>
+</body>
+</html>

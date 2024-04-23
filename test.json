@@ -1,0 +1,553 @@
+{
+  "response": {
+    "success": 1,
+    "history": [
+      {
+        "value": 40.5,
+        "value_high": 54,
+        "currency": "keys",
+        "timestamp": 1363341207
+      },
+      {
+        "value": 30,
+        "value_high": 33,
+        "currency": "keys",
+        "timestamp": 1363450622
+      },
+      {
+        "value": 27,
+        "value_high": 30,
+        "currency": "keys",
+        "timestamp": 1363535636
+      },
+      {
+        "value": 25,
+        "value_high": 27,
+        "currency": "keys",
+        "timestamp": 1363636478
+      },
+      {
+        "value": 23,
+        "value_high": 25,
+        "currency": "keys",
+        "timestamp": 1363708778
+      },
+      {
+        "value": 20,
+        "value_high": 24,
+        "currency": "keys",
+        "timestamp": 1363888549
+      },
+      {
+        "value": 19,
+        "value_high": 22,
+        "currency": "keys",
+        "timestamp": 1364106218
+      },
+      {
+        "value": 18,
+        "value_high": 20,
+        "currency": "keys",
+        "timestamp": 1364247290
+      },
+      {
+        "value": 17,
+        "value_high": 18,
+        "currency": "keys",
+        "timestamp": 1364411388
+      },
+      {
+        "value": 15,
+        "value_high": 17,
+        "currency": "keys",
+        "timestamp": 1364539654
+      },
+      {
+        "value": 15,
+        "value_high": 16,
+        "currency": "keys",
+        "timestamp": 1364755718
+      },
+      {
+        "value": 14,
+        "value_high": 15,
+        "currency": "keys",
+        "timestamp": 1364807300
+      },
+      {
+        "value": 13,
+        "value_high": 14,
+        "currency": "keys",
+        "timestamp": 1365018448
+      },
+      {
+        "value": 12,
+        "value_high": 13,
+        "currency": "keys",
+        "timestamp": 1365213610
+      },
+      {
+        "value": 12,
+        "value_high": 12,
+        "currency": "keys",
+        "timestamp": 1365550069
+      },
+      {
+        "value": 11,
+        "value_high": 12,
+        "currency": "keys",
+        "timestamp": 1365871420
+      },
+      {
+        "value": 10,
+        "value_high": 11,
+        "currency": "keys",
+        "timestamp": 1366083204
+      },
+      {
+        "value": 9,
+        "value_high": 10,
+        "currency": "keys",
+        "timestamp": 1366307035
+      },
+      {
+        "value": 9,
+        "value_high": 9,
+        "currency": "keys",
+        "timestamp": 1367075731
+      },
+      {
+        "value": 8,
+        "value_high": 9,
+        "currency": "keys",
+        "timestamp": 1367181926
+      },
+      {
+        "value": 8,
+        "value_high": 8,
+        "currency": "keys",
+        "timestamp": 1367636556
+      },
+      {
+        "value": 7,
+        "value_high": 8,
+        "currency": "keys",
+        "timestamp": 1367990137
+      },
+      {
+        "value": 7,
+        "value_high": 7.5,
+        "currency": "keys",
+        "timestamp": 1368299818
+      },
+      {
+        "value": 7,
+        "value_high": 7,
+        "currency": "keys",
+        "timestamp": 1368375364
+      },
+      {
+        "value": 6.5,
+        "value_high": 7,
+        "currency": "keys",
+        "timestamp": 1368710906
+      },
+      {
+        "value": 6,
+        "value_high": 6.5,
+        "currency": "keys",
+        "timestamp": 1369031099
+      },
+      {
+        "value": 6,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1369110954
+      },
+      {
+        "value": 5,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1369335951
+      },
+      {
+        "value": 5,
+        "value_high": 5.5,
+        "currency": "keys",
+        "timestamp": 1369527592
+      },
+      {
+        "value": 5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1369708246
+      },
+      {
+        "value": 4.5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1370055140
+      },
+      {
+        "value": 4.5,
+        "value_high": 4.5,
+        "currency": "keys",
+        "timestamp": 1370271899
+      },
+      {
+        "value": 4,
+        "value_high": 4.5,
+        "currency": "keys",
+        "timestamp": 1370584129
+      },
+      {
+        "value": 4,
+        "value_high": 4,
+        "currency": "keys",
+        "timestamp": 1371406327
+      },
+      {
+        "value": 3.5,
+        "value_high": 4,
+        "currency": "keys",
+        "timestamp": 1373425621
+      },
+      {
+        "value": 3.3,
+        "value_high": 3.5,
+        "currency": "keys",
+        "timestamp": 1374570486
+      },
+      {
+        "value": 3,
+        "value_high": 3,
+        "currency": "keys",
+        "timestamp": 1375031197
+      },
+      {
+        "value": 2.6,
+        "value_high": 3,
+        "currency": "keys",
+        "timestamp": 1375456819
+      },
+      {
+        "value": 2.5,
+        "value_high": 2.8,
+        "currency": "keys",
+        "timestamp": 1375993400
+      },
+      {
+        "value": 2.5,
+        "value_high": 2.5,
+        "currency": "keys",
+        "timestamp": 1376503481
+      },
+      {
+        "value": 2.5,
+        "value_high": 3,
+        "currency": "keys",
+        "timestamp": 1378114694
+      },
+      {
+        "value": 3,
+        "value_high": 3,
+        "currency": "keys",
+        "timestamp": 1378359491
+      },
+      {
+        "value": 3,
+        "value_high": 4,
+        "currency": "keys",
+        "timestamp": 1378628905
+      },
+      {
+        "value": 4,
+        "value_high": 4,
+        "currency": "keys",
+        "timestamp": 1379230820
+      },
+      {
+        "value": 4,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1389848396
+      },
+      {
+        "value": 5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1390034219
+      },
+      {
+        "value": 6,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1391934237
+      },
+      {
+        "value": 5.6,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1400670729
+      },
+      {
+        "value": 5,
+        "value_high": 5.6,
+        "currency": "keys",
+        "timestamp": 1402871509
+      },
+      {
+        "value": 5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1403310480
+      },
+      {
+        "value": 4.5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1404142673
+      },
+      {
+        "value": 5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1407961355
+      },
+      {
+        "value": 4.6,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1428083052
+      },
+      {
+        "value": 4.4,
+        "value_high": 4.5,
+        "currency": "keys",
+        "timestamp": 1428701953
+      },
+      {
+        "value": 4.4,
+        "value_high": 4.4,
+        "currency": "keys",
+        "timestamp": 1430066730
+      },
+      {
+        "value": 4,
+        "value_high": 4.4,
+        "currency": "keys",
+        "timestamp": 1430937131
+      },
+      {
+        "value": 4.3,
+        "value_high": 4.3,
+        "currency": "keys",
+        "timestamp": 1441254170
+      },
+      {
+        "value": 4.75,
+        "value_high": 4.75,
+        "currency": "keys",
+        "timestamp": 1441720474
+      },
+      {
+        "value": 4.75,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1442274320
+      },
+      {
+        "value": 5,
+        "value_high": 5,
+        "currency": "keys",
+        "timestamp": 1450547532
+      },
+      {
+        "value": 6,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1453513012
+      },
+      {
+        "value": 6.2,
+        "value_high": 6.2,
+        "currency": "keys",
+        "timestamp": 1455735884
+      },
+      {
+        "value": 7,
+        "value_high": 7,
+        "currency": "keys",
+        "timestamp": 1458854190
+      },
+      {
+        "value": 7.5,
+        "value_high": 7.5,
+        "currency": "keys",
+        "timestamp": 1461527087
+      },
+      {
+        "value": 7,
+        "value_high": 7,
+        "currency": "keys",
+        "timestamp": 1465453395
+      },
+      {
+        "value": 6.5,
+        "value_high": 6.5,
+        "currency": "keys",
+        "timestamp": 1469371752
+      },
+      {
+        "value": 6,
+        "value_high": 6,
+        "currency": "keys",
+        "timestamp": 1474130285
+      },
+      {
+        "value": 6.3,
+        "value_high": 6.3,
+        "currency": "keys",
+        "timestamp": 1489904692
+      },
+      {
+        "value": 7.1,
+        "value_high": 7.1,
+        "currency": "keys",
+        "timestamp": 1507673570
+      },
+      {
+        "value": 8.1,
+        "value_high": 8.7,
+        "currency": "keys",
+        "timestamp": 1512613235
+      },
+      {
+        "value": 9.35,
+        "value_high": 9.35,
+        "currency": "keys",
+        "timestamp": 1523114092
+      },
+      {
+        "value": 9.8,
+        "value_high": 11,
+        "currency": "keys",
+        "timestamp": 1524287371
+      },
+      {
+        "value": 11.5,
+        "value_high": 11.8,
+        "currency": "keys",
+        "timestamp": 1525802095
+      },
+      {
+        "value": 11.2,
+        "value_high": 11.45,
+        "currency": "keys",
+        "timestamp": 1534228468
+      },
+      {
+        "value": 12.3,
+        "value_high": 12.95,
+        "currency": "keys",
+        "timestamp": 1541531580
+      },
+      {
+        "value": 14.75,
+        "value_high": 16,
+        "currency": "keys",
+        "timestamp": 1547085947
+      },
+      {
+        "value": 16.3,
+        "value_high": 16.35,
+        "currency": "keys",
+        "timestamp": 1562096637
+      },
+      {
+        "value": 24.5,
+        "value_high": 25,
+        "currency": "keys",
+        "timestamp": 1596259702
+      },
+      {
+        "value": 32.4,
+        "value_high": 32.4,
+        "currency": "keys",
+        "timestamp": 1598957521
+      },
+      {
+        "value": 37,
+        "value_high": 40,
+        "currency": "keys",
+        "timestamp": 1612888500
+      },
+      {
+        "value": 51,
+        "value_high": 53,
+        "currency": "keys",
+        "timestamp": 1624355181
+      },
+      {
+        "value": 57,
+        "value_high": 60,
+        "currency": "keys",
+        "timestamp": 1630034881
+      },
+      {
+        "value": 70,
+        "value_high": 74,
+        "currency": "keys",
+        "timestamp": 1634843779
+      },
+      {
+        "value": 65,
+        "value_high": 69,
+        "currency": "keys",
+        "timestamp": 1637502341
+      },
+      {
+        "value": 75,
+        "value_high": 75,
+        "currency": "keys",
+        "timestamp": 1641857618
+      },
+      {
+        "value": 78,
+        "value_high": 80,
+        "currency": "keys",
+        "timestamp": 1645836402
+      },
+      {
+        "value": 75,
+        "value_high": 79,
+        "currency": "keys",
+        "timestamp": 1655965474
+      },
+      {
+        "value": 88,
+        "value_high": 88,
+        "currency": "keys",
+        "timestamp": 1679487164
+      },
+      {
+        "value": 100,
+        "value_high": 105,
+        "currency": "keys",
+        "timestamp": 1695821248
+      },
+      {
+        "value": 114,
+        "value_high": 120,
+        "currency": "keys",
+        "timestamp": 1704129538
+      },
+      {
+        "value": 137,
+        "value_high": 141,
+        "currency": "keys",
+        "timestamp": 1708943811
+      }
+    ]
+  }
+}

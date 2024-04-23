@@ -1,0 +1,123 @@
+@import 'colors';
+
+header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: $highlight;
+}
+
+.keyEntry {
+  max-height: 20px;
+}
+
+#apiHeader {
+  color: $super-light;
+}
+
+#weaponsTitle,
+#cosmeticsTitle,
+#apiKeyEntry {
+  width: 30%;
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.progress-container {
+  width: 450px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+progress {
+  width: 100%;
+  height: 20px;
+  appearance: none;
+  background: linear-gradient(to bottom, $super-light, $highlight);
+  border: none;
+  border-radius: 10px;
+}
+
+progress::-webkit-progress-bar {
+  background-color: $dark;
+}
+
+progress::-webkit-progress-value {
+  background-color: $super-light;
+  border-radius: 10px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: $dark;
+  color: $light;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contents {
+  display: flex;
+  justify-content: space-around;
+}
+
+#weaponsParent,
+#cosmeticsParent,
+#info {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.cosmeticContainer0,
+.cosmeticContainer1,
+.cosmeticContainer2,
+.weaponContainer0,
+.weaponContainer1,
+.weaponContainer2 {
+  border-color: $highlight;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; 
+  gap: 10px;
+  text-align: center;
+  min-height: 33vh; 
+  min-width: 33vh; 
+}
+
+
+
+img.weaponImg,
+img.cosmeticImg {
+  width: 200px;
+  height: 200px;
+}
+
+.cosmeticEntry,
+.weaponEntry,
+.keyEntry {
+  width: 120px;
+  padding: 5px;
+  border: 1px solid $ultra-dark;
+  background-color: $mids;
+  color: $super-light;
+}
+
+.cosmeticEntry,
+.weaponEntry {
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.submitBtn {
+  background-color: $super-light;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 10px;
+}
